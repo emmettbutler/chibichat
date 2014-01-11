@@ -1,4 +1,4 @@
-Tinychat
+Chibichat
 ========
 
 This is a basic multiuser chat server. It is based on the chat server example
@@ -11,11 +11,11 @@ Usage
 
 Compile the code with
 
-    gcc chatserver.c -o tinychat
+    gcc chatserver.c -o chibichat
 
 Run with
 
-    ./tinychat
+    ./chibichat
 
 From another window or machine, connect with
 
